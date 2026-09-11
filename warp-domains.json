@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "challenges.cloudflare.com",
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "sora.com",
+        "anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "perplexity.ai",
+        "pplx.ai",
+        "character.ai",
+        "poe.com",
+        "x.ai",
+        "grok.com",
+        "midjourney.com",
+        "linux.do",
+        "nodeseek.com",
+        "hostloc.com",
+        "v2ex.com"
+      ]
+    }
+  ]
+}
