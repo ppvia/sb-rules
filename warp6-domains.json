@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "facebook.com",
+        "fbcdn.net",
+        "fb.com",
+        "facebook.net",
         "google.com",
         "google.co.jp",
         "google.com.hk",
